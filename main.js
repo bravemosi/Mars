@@ -1,5 +1,10 @@
-firstline
+firstline;
 // first comment of main.js
+
+function add(a, b) {
+  return a + b;
+}
+
 function minus(a, b){
     return a - b;
 }
